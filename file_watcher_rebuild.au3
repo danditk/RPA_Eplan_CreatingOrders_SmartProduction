@@ -1,6 +1,6 @@
 ; ========== KONFIG ==========
 
-Global Const $watchFolder  = "C:\Users\pl70008930\OneDrive - Friedhelm Loh Group\Dokumenty\AutoIT\Test sprawdzenia pliku"
+Global Const $watchFolder  = "C:\Users\pl70008930\OneDrive - Friedhelm Loh Group\Dokumenty\AutoIT\CreatingOrders_SmartProduction\Smart Production Collection Files - EPDZ"
 Global Const $uploadFolder = "C:\Program Files\EPLAN\EPLAN Smart Production Collection 2024\server\swa\storage\Uploaded"
 Global Const $seleniumExe  = "C:\Users\pl70008930\source\repos\.NET\SmartProductionLogin\bin\Release\net6.0\publish\SmartProductionLogin.exe"
 
