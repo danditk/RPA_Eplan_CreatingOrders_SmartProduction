@@ -1,0 +1,15 @@
+# Ignoruj folder, do którego kopiowane są pliki EPDZ
+Smart Production Collection Files - EPDZ/
+
+# Ignoruj skompilowane pliki SPDZ
+*.epdz
+
+# Ignoruj pliki tymczasowe Pythona
+__pycache__/
+
+# Ignoruj folder wirtualnego środowiska Pythona
+venv/
+
+# Ignoruj pliki logów
+*.log
+
